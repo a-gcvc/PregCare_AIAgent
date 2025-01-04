@@ -1,3 +1,21 @@
-Biblioteke koje su korištene u projektu se mogu instalirati korištenjem sljedeće komande u terminalu:
+1. Python IDE: 
+    version -> 3.13.1
 
-pip install flask flask-cors pandas scikit-learn joblib
+2. Live Server extension in Visual Studio Code
+
+3. Required libraries:
+    pandas==2.2.3
+    joblib==1.4.2
+    flask==3.1.0
+    flask-cors==5.0.0
+    scikit-learn==1.6.0
+
+4. Running the Application:
+    - type this command in Terminal window:
+python backend/app.py
+    - open index.html file and click on "Go Live"
+
+
+After you have followed all the previous steps, the application is ready to use :)
+
+
